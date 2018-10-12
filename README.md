@@ -10,11 +10,10 @@ List of disaster tracking includes earthquakes, hurricanes, flood, storm, tsunam
 • Data sources are of concern of DM: providing efficient data infrastructure in the form of databases and efficient retrieval algorithms is part of DM, while ML typically assumes datasets as input of the algorithms (though some algorithm  specific data structures for efficient data access may be a part of ML). 
 • DM requires large amounts of data: large databases’ infrastructure is the concern  of DM, while ML may focus on methods and algorithms that are explicitly designed for the limited available data. 
 
-We will use above specified methods of data collections and data attributions and model training which would be use an API in the app also we like to use to azure service for model training
-Real-time disaster tracking.
-Notification of disasters near your area.
-Easy to use interface
-all the updates are taken from official sources.
+We will use above specified methods of data collections and data attributions and model training which would be use an API in the app also we like to use to azure service for model training.
+1.Real-time disaster tracking.
+2.Notification of disasters near your area.
+3.Easy to use interface
 Also information can be given about places to go if you are caught in trouble
 Beforehand solutions can be provided to avoid such disaster 
 we will be enable a gps based app to give notifiication about local disaster 
